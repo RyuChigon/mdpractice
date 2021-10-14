@@ -77,7 +77,7 @@ Also, we depicted 20 users in the prototype, due to two reasons: First, we focus
     - We limited the maximum number of participants for each team, to prevent excessive congestion of the crowds. Also, we are planning to implement the minimum capacity as well, to enable minigame (task 3) more easily.
     - If the game is yet to start, you can see the starting time of the game and the total number of people participating.
 
-[https://lh6.googleusercontent.com/KJ1fVeARiCAjs9HYUQqOoFZGKL2nfSZm15-KuArX-diDvt55HW1LtMBdJq9TFCstOWv_KyyCOj_kcFCtzW86F0Ybumn4oPUxbxLSmgOBgfAMeIifX8MDbp7DJlfqMIu6niG6SVnw=s0](https://lh6.googleusercontent.com/KJ1fVeARiCAjs9HYUQqOoFZGKL2nfSZm15-KuArX-diDvt55HW1LtMBdJq9TFCstOWv_KyyCOj_kcFCtzW86F0Ybumn4oPUxbxLSmgOBgfAMeIifX8MDbp7DJlfqMIu6niG6SVnw=s0)
+![representative_screenshots_1](https://user-images.githubusercontent.com/60319371/137314290-628ce49c-ebdd-4ea5-84a7-0bc337e8d5ef.png)
 
 <br/>
 
@@ -87,9 +87,8 @@ Also, we depicted 20 users in the prototype, due to two reasons: First, we focus
     - We are thinking about unifying the general design of the characters, but we also think that showing four different identities is interesting. This is part of our plan for improvement.
     - You can choose the team, and the color of the cloth changes depending on the team.
 
-[https://lh6.googleusercontent.com/3UUsKMvg7I8qbVfxvnGDwQIAEZkQs6A34maMVlJzpmWBbPBMn-CQU703Re6WyFP_Z43cmFWCZGC8Nv578f3SwIGyu7gEj1ue0Mf6U672M115HLK0YHG84wC_hB890th4yOcmhhyu=s0](https://lh6.googleusercontent.com/3UUsKMvg7I8qbVfxvnGDwQIAEZkQs6A34maMVlJzpmWBbPBMn-CQU703Re6WyFP_Z43cmFWCZGC8Nv578f3SwIGyu7gEj1ue0Mf6U672M115HLK0YHG84wC_hB890th4yOcmhhyu=s0)
-
-[https://lh3.googleusercontent.com/QWCzTxxgqC-rXulBgdMlouCRWO_pJ0l36bAzSzJIUeHfUh_MUXOvCkkNoJRJVRLaL6NvNwxrjgNYhbPPv4jA4IAlmZ7mg6ncvMjvNJIyHBgxLuPW0nt4eVEZ0TpLCND1tWhjvd08=s0](https://lh3.googleusercontent.com/QWCzTxxgqC-rXulBgdMlouCRWO_pJ0l36bAzSzJIUeHfUh_MUXOvCkkNoJRJVRLaL6NvNwxrjgNYhbPPv4jA4IAlmZ7mg6ncvMjvNJIyHBgxLuPW0nt4eVEZ0TpLCND1tWhjvd08=s0)
+![representative_screenshots_2](https://user-images.githubusercontent.com/60319371/137314308-9cfc1dd9-7479-45c5-9bd8-6c797a2eba4d.png)
+![representative_screenshots_3](https://user-images.githubusercontent.com/60319371/137314312-a0d5fcfd-063b-4b11-b1c1-9dc30e71515f.png)
 
 - On the main page, sers can interact with others by emoticons and chatting.
     - The user’s character is highlighted, so that the user can spot his own character easily.
@@ -98,11 +97,9 @@ Also, we depicted 20 users in the prototype, due to two reasons: First, we focus
     - However, there was feedback that the tool boxes were too small, and we are considering increasing the size.
     - Users can show their agreement or excitement by pressing the cheer button on the lower left corner, and your pose turns into a hooray pose.
 
-[https://lh4.googleusercontent.com/pLuX_cY-whGA1snVU_UyWwda52aqYw3aVDHiuHJ1fyWjr88Yj0jBOj31IJ90rhAdfmljxiYEzdYO8QXKuwVJ7zug4RO32_7nF-RG4VKmbsyekitx0WsdZ9P64eZ1B5T5ZH5gWuTw=s0](https://lh4.googleusercontent.com/pLuX_cY-whGA1snVU_UyWwda52aqYw3aVDHiuHJ1fyWjr88Yj0jBOj31IJ90rhAdfmljxiYEzdYO8QXKuwVJ7zug4RO32_7nF-RG4VKmbsyekitx0WsdZ9P64eZ1B5T5ZH5gWuTw=s0)
-
-[https://lh3.googleusercontent.com/hOkVRtMNU78j6uIt241keSWyd5Q_H-6T_BXJFV1weAm_f4tOvRJWEbhvWP_8UHh_5G60eL7-6hvm7oOZy1hqMeH7XAOmq4IZ468-55IE5Vbi87AQVxvnr5JxjH_Fm2-MPtNSAnu2=s0](https://lh3.googleusercontent.com/hOkVRtMNU78j6uIt241keSWyd5Q_H-6T_BXJFV1weAm_f4tOvRJWEbhvWP_8UHh_5G60eL7-6hvm7oOZy1hqMeH7XAOmq4IZ468-55IE5Vbi87AQVxvnr5JxjH_Fm2-MPtNSAnu2=s0)
-
-[https://lh4.googleusercontent.com/2hlyw1uagG5eSgD_OnYZePI1d83txT9VtSKq5Cconrsci_8adYY_ep48WsMor97JAmOFD6q1BMxZ_WF5pcZkNfO1bfffMQZgAlAaVA0LKlf25tauOfzHOlonffN08M0HZ3qB0n5_=s0](https://lh4.googleusercontent.com/2hlyw1uagG5eSgD_OnYZePI1d83txT9VtSKq5Cconrsci_8adYY_ep48WsMor97JAmOFD6q1BMxZ_WF5pcZkNfO1bfffMQZgAlAaVA0LKlf25tauOfzHOlonffN08M0HZ3qB0n5_=s0)
+![representative_screenshots_4](https://user-images.githubusercontent.com/60319371/137314313-b4af70de-bfd0-44fd-b918-0362cd556f75.png)
+![representative_screenshots_5](https://user-images.githubusercontent.com/60319371/137314321-b59ce92b-e22a-4b87-ad25-74ca2a08d523.png)
+![representative_screenshots_6](https://user-images.githubusercontent.com/60319371/137314332-d6c6bec3-5ef7-4804-a9c5-87f07532a5f8.png)
 
 <br/>
 
@@ -113,7 +110,7 @@ Also, we depicted 20 users in the prototype, due to two reasons: First, we focus
     - If the user clicks the thumbnail of the archived video, the video is shown as a short pop up.
     - The length of each moment will not be very long, although the maximum time length is not yet fixed (we will discuss with our team members)
 
-[https://lh4.googleusercontent.com/uEsI0V45-A6ubAsSc0gnUhZ8FYEULcWQX4oh9Gu-aIS3J18qtAhYoN0d5IRNrejEP9qBdLJkyEGjG1vykk6pTT4OCghi5EPKbXPGPYd20AGYhh8yLw8KT_MDgfVi1344uolBdk2B=s0](https://lh4.googleusercontent.com/uEsI0V45-A6ubAsSc0gnUhZ8FYEULcWQX4oh9Gu-aIS3J18qtAhYoN0d5IRNrejEP9qBdLJkyEGjG1vykk6pTT4OCghi5EPKbXPGPYd20AGYhh8yLw8KT_MDgfVi1344uolBdk2B=s0)
+![representative_screenshots_7](https://user-images.githubusercontent.com/60319371/137314341-8f2e5f1b-57e2-4cd5-9803-daa486fa4606.png)
 
 <br/>
 
@@ -124,21 +121,20 @@ Also, we depicted 20 users in the prototype, due to two reasons: First, we focus
 - We erased all the interaction related toggles, such as the “view” button for task 2 or the emoticon + chatting box in task 1. This is because we wanted the users to concentrate on the game.
 - The prize after winning the game is still in discussion. Originally, we were aiming to play the song of the team that won. We are still discussing what can be a good motivating prize for the winning team.
 
-[https://lh3.googleusercontent.com/nzvr8zlUi9E8NtLGvQvn5Pjsu_L0qODBUtSv1Mg2Y9zwSax80jR-2k4iJAxcDLnDS-6dt6wtg3nW6bcm41ZVqsXckihB5nr_H6ZKtdWYFLT3R0RKEMa_mGKJUpyme3xKaNj5_xnk=s0](https://lh3.googleusercontent.com/nzvr8zlUi9E8NtLGvQvn5Pjsu_L0qODBUtSv1Mg2Y9zwSax80jR-2k4iJAxcDLnDS-6dt6wtg3nW6bcm41ZVqsXckihB5nr_H6ZKtdWYFLT3R0RKEMa_mGKJUpyme3xKaNj5_xnk=s0)
+![representative_screenshots_8](https://user-images.githubusercontent.com/60319371/137314367-f888d5fc-ad9f-4f55-9af8-385746125cd4.png)
 
 - Mini Game 1: Pushing a space bar
     - Pushing the space bar has the same effect as pushing the cheer button explained on task 1.
     - The team that presses the most number of spacebar wins, and as the number of spacebar pressed increases, the bar on both sides of the screen increases. This UI is purely to encourage users and add more fun.
 
-[https://lh5.googleusercontent.com/LI-xkNrcux0EK2jDSvPx0_djSE5QHC6GWNWbSz_h1Js74wV64m-aeso51o4kQjbhhqXrUhpi5ImUY0B2w9_Az5bWwmxrdhRdi5aNxiG7MPGxZBwMb4qxs3vvoZK007VaDM7hLbsC=s0](https://lh5.googleusercontent.com/LI-xkNrcux0EK2jDSvPx0_djSE5QHC6GWNWbSz_h1Js74wV64m-aeso51o4kQjbhhqXrUhpi5ImUY0B2w9_Az5bWwmxrdhRdi5aNxiG7MPGxZBwMb4qxs3vvoZK007VaDM7hLbsC=s0)
-
-[https://lh5.googleusercontent.com/bHi6QYPq8AdEYpbvFYKEP6FLC_05bq6DBPSqcyWVmsAAMsjZEz3lHLl_p8rMwUzZiLlg6EQHyoIAewRtCvctOOhhq3lzzIfE-zJCGwhGSiT13q1SWakP9Jz20g327hxY8QHv9pDg=s0](https://lh5.googleusercontent.com/bHi6QYPq8AdEYpbvFYKEP6FLC_05bq6DBPSqcyWVmsAAMsjZEz3lHLl_p8rMwUzZiLlg6EQHyoIAewRtCvctOOhhq3lzzIfE-zJCGwhGSiT13q1SWakP9Jz20g327hxY8QHv9pDg=s0)
+![representative_screenshots_9](https://user-images.githubusercontent.com/60319371/137314381-f927c67f-10fb-4ad5-8ed9-7091112fdbfd.png)
+![representative_screenshots_10](https://user-images.githubusercontent.com/60319371/137314394-19f2499d-e38f-4ede-9764-acc65f8615ab.png)
 
 - Mini Game 2: Doing the waves
     - This is a game where users press the “cheer” button in sync with the timing. It is a famous game in korea, called “파도타기"
     - There was feedback about the timing of pressing the spacebar. We were thinking of showing a translucent color bar to indicate the people playing the game.
 
-[https://lh6.googleusercontent.com/qsb9-fKYB0-_3yMdppoCiBQbAsXP6e5ZSLSmXvKK4WLyLGjTN8gGzN80SpdhRj4ViLuK-YIVkYiwy-_l7fQQbX6FrV2wlIOww4ZY-YB9NXwKmUQwkGQeYaweA8M6_MHZvAqXMy0J=s0](https://lh6.googleusercontent.com/qsb9-fKYB0-_3yMdppoCiBQbAsXP6e5ZSLSmXvKK4WLyLGjTN8gGzN80SpdhRj4ViLuK-YIVkYiwy-_l7fQQbX6FrV2wlIOww4ZY-YB9NXwKmUQwkGQeYaweA8M6_MHZvAqXMy0J=s0)
+![representative_screenshots_11](https://user-images.githubusercontent.com/60319371/137314404-325d7ce5-2a22-4d58-8b4a-0cdd118ded8f.png)
 
 <br/>
 
@@ -148,10 +144,8 @@ We need an administrator for quality control of users and to carry out the game.
 
 The user should enter a passcode before joining as administrator. The passcode identifies which game the administrator belongs to, and enables the user to have authority of administrator to only the identified game.
 
-[https://lh3.googleusercontent.com/AKZfyzqWR9nshIQeN-DjlPsaS67lBS8608bb-J46_QE3TfYz3UA-Is2fpMcmafUbxT2DYtJx53uNz4ULBpKCdIDuFcIsyPfZeJbniA2LE_lDQoxW5HKoOR2nVJ_yqN8KMggivcr6=s0](https://lh3.googleusercontent.com/AKZfyzqWR9nshIQeN-DjlPsaS67lBS8608bb-J46_QE3TfYz3UA-Is2fpMcmafUbxT2DYtJx53uNz4ULBpKCdIDuFcIsyPfZeJbniA2LE_lDQoxW5HKoOR2nVJ_yqN8KMggivcr6=s0)
-
-
-[https://lh3.googleusercontent.com/GXZ-hRzQbfD4wr8kK0-cwNsgHJ_uUqBI4xg5kL6UbdLuOgcJ3T78jleX-ilupaQ70C8hYAGdAakmeiOq7-zE1PSadfcMdiJRYWRQ9QNQKiFblOhfLerVpR5iEfmDm0hSWtOsfQZH=s0](https://lh3.googleusercontent.com/GXZ-hRzQbfD4wr8kK0-cwNsgHJ_uUqBI4xg5kL6UbdLuOgcJ3T78jleX-ilupaQ70C8hYAGdAakmeiOq7-zE1PSadfcMdiJRYWRQ9QNQKiFblOhfLerVpR5iEfmDm0hSWtOsfQZH=s0)
+![representative_screenshots_12](https://user-images.githubusercontent.com/60319371/137314410-90ff5b8d-87d0-4980-b057-0785b71f86ba.png)
+![representative_screenshots_13](https://user-images.githubusercontent.com/60319371/137314412-9b9a0af0-bd96-4746-b711-86de286d6341.png)
 
 - The administrator can monitor the user’s main page.
 - The administrator can also see the chatting screen and monitor the users
@@ -162,13 +156,12 @@ The user should enter a passcode before joining as administrator. The passcode i
 - The administrator can see the progress of the game and how much time is left through the progress bar on the lower middle part of the screen. This is because the games are mostly automatically progressed.
 - If there are not enough people to play the game (especially game 2: 파도타기), than the game button cannot be selected (disable the button function)
 
-[https://lh4.googleusercontent.com/6bKO6WWlrZANrMFS7o3WsoBO_Js7e75EkWMGdwtLui_CH9Rra661vwx8M2rIAXDcPXacL8f0L7ZOlt2z0krdLOudEX7kd5EyU4Qfv13AN_Tc43MfxZ8aLowgOZLWEu6V0gZLlcgu=s0](https://lh4.googleusercontent.com/6bKO6WWlrZANrMFS7o3WsoBO_Js7e75EkWMGdwtLui_CH9Rra661vwx8M2rIAXDcPXacL8f0L7ZOlt2z0krdLOudEX7kd5EyU4Qfv13AN_Tc43MfxZ8aLowgOZLWEu6V0gZLlcgu=s0)
+![representative_screenshots_14](https://user-images.githubusercontent.com/60319371/137314416-d57800d5-eb0b-4def-9084-09ddabda5654.png)
 
 - send a notice to the users
 
-[https://lh4.googleusercontent.com/2C5Lai5W03wWLt7oI5z-AGucXkvEqp-jMwPvyha9ZUyLtQIHqqGL4btSRlGabZ-iKhhvOIwrrgeNMv2YIpxT1B288BRAyYN4XMIzDZ0R8pa2nFy-4J8pf-fXHtINvSSIamIUWrXx=s0](https://lh4.googleusercontent.com/2C5Lai5W03wWLt7oI5z-AGucXkvEqp-jMwPvyha9ZUyLtQIHqqGL4btSRlGabZ-iKhhvOIwrrgeNMv2YIpxT1B288BRAyYN4XMIzDZ0R8pa2nFy-4J8pf-fXHtINvSSIamIUWrXx=s0)
-
-[https://lh6.googleusercontent.com/HGhwhvjX8xxxyMnkPLDf0iQOeO6EznQwRfTVzSB0iCQ80qlnD_45D1WpppshwP4BvDYE6HegmP8XDwvesKxp32_hXTYqIgs38RFyGYlXs_Ao-JnfjCG5bnuHRrwbBf8Tg6Hv0u3o=s0](https://lh6.googleusercontent.com/HGhwhvjX8xxxyMnkPLDf0iQOeO6EznQwRfTVzSB0iCQ80qlnD_45D1WpppshwP4BvDYE6HegmP8XDwvesKxp32_hXTYqIgs38RFyGYlXs_Ao-JnfjCG5bnuHRrwbBf8Tg6Hv0u3o=s0)
+![representative_screenshots_15](https://user-images.githubusercontent.com/60319371/137314423-92e95197-5e36-444d-8810-62e34ede6671.png)
+![representative_screenshots_16](https://user-images.githubusercontent.com/60319371/137314432-1dc8072f-d6eb-4df6-9cb5-642a58a542d2.png)
 
 <br/>
 
